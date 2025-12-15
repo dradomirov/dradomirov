@@ -32,4 +32,4 @@ Senior Backend Engineer with over 6 years of experience working with technologie
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/jvstDani92)
 
 ---
-⭐️ From [jvstDani92](https://github.com/dradomirov)
+⭐️ From [dradomirov](https://github.com/dradomirov)
