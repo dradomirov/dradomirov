@@ -29,7 +29,7 @@ Senior Backend Engineer with over 6 years of experience working with technologie
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dradomirov)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radomirovdaniel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/jvstDani92)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/dradomirov)
 
 ---
 ⭐️ From [dradomirov](https://github.com/dradomirov)
